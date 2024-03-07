@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973681969865",
+    "project_id": "ankit-assignment-421e1",
+    "storage_bucket": "ankit-assignment-421e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973681969865:android:44d2002a7c3bd3cccadb18",
+        "android_client_info": {
+          "package_name": "com.example.ankit_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFCHeR_3CRkGAN-0mvnh1N2vVLwOjYDYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
